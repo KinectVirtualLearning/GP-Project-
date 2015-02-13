@@ -100,3 +100,7 @@ C:\Users\ahmed_nasser\Desktop\GP\Real_after_Final_Project\Real_Final_Project\bin
 C:\Users\ahmed_nasser\Desktop\GP\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csproj.ResolveComReference.cache
 C:\Users\ahmed_nasser\Desktop\GP\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.exe
 C:\Users\ahmed_nasser\Desktop\GP\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.pdb
+C:\Users\ahmed\Desktop\GP\GP-Project-\Real_after_Final_Project\Real_Final_Project\bin\Debug\Real_Final_Project.exe.config
+C:\Users\ahmed\Desktop\GP\GP-Project-\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csproj.ResolveComReference.cache
+C:\Users\ahmed\Desktop\GP\GP-Project-\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.exe
+C:\Users\ahmed\Desktop\GP\GP-Project-\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.pdb

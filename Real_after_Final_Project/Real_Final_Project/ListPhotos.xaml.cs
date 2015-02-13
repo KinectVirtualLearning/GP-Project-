@@ -24,5 +24,10 @@ namespace Real_Final_Project
         {
             InitializeComponent();
         }
+
+        private void Main_Loaded(object sender, RoutedEventArgs e)
+        {
+                            
+        }
     }
 }

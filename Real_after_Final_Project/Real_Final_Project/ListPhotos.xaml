@@ -1,0 +1,39 @@
+﻿<Page x:Class="Real_Final_Project.ListPhotos"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+       xmlns:Controls="clr-namespace:Coding4Fun.Kinect.Wpf.Controls;assembly=Coding4Fun.Kinect.Wpf" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      mc:Ignorable="d" 
+      d:DesignHeight="800" d:DesignWidth="1280"
+	Title="ListPhotos">
+    <Grid Loaded="Main_Loaded" Background="White">
+        <Canvas>
+            <Image x:Name="Image_Background" Height="400" Width="1000" Source="E:/test.png" Canvas.Left="157"/>
+            <Button x:Name="left" HorizontalAlignment="Left" Height="308" VerticalAlignment="Top"  Canvas.Left="10" Canvas.Top="482" Width="351" Click="left_btn" >
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border HorizontalAlignment="Center" VerticalAlignment="Center" >
+                            <Image Source="E:/left.png" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+
+            <Button x:Name="right" HorizontalAlignment="Right" Height="308" VerticalAlignment="Top" Width="351" Canvas.Left="919" Canvas.Top="482" Click="right_btn" >
+                <Button.Template>
+                    <ControlTemplate>
+                        <Border HorizontalAlignment="Center" VerticalAlignment="Center" >
+                            <Image Source="E:/right.png" />
+                        </Border>
+                    </ControlTemplate>
+                </Button.Template>
+            </Button>
+            <Controls:HoverButton Margin="0" Padding="0" ImageSize="50" x:Name="kinectButton"
+                                  ImageSource="/Real_Final_Project;component/Images/myhand.png"  
+                                ActiveImageSource="/Real_Final_Project;component/Images/myhand.png" 
+                       TimeInterval="2000"  Panel.ZIndex="1000" Canvas.Left="605" Canvas.Top="461"/>
+            <Label x:Name="L1" Content="size" Canvas.Left="605" Canvas.Top="564" FontSize="30"/>
+        </Canvas>
+    </Grid>
+</Page>

@@ -1,0 +1,102 @@
+D:\Real_Final_Project\Real_Final_Project\bin\Debug\Real_Final_Project.exe.config
+D:\Real_Final_Project\Real_Final_Project\bin\Debug\Real_Final_Project.exe
+D:\Real_Final_Project\Real_Final_Project\bin\Debug\Real_Final_Project.pdb
+D:\Real_Final_Project\Real_Final_Project\bin\Debug\Coding4Fun.Kinect.Wpf.dll
+D:\Real_Final_Project\Real_Final_Project\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Real_Final_Project\Real_Final_Project\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+D:\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csprojResolveAssemblyReference.cache
+D:\Real_Final_Project\Real_Final_Project\obj\Debug\MainMenu.baml
+D:\Real_Final_Project\Real_Final_Project\obj\Debug\MainWindow.baml
+D:\Real_Final_Project\Real_Final_Project\obj\Debug\MainMenu.g.cs
+D:\Real_Final_Project\Real_Final_Project\obj\Debug\MainWindow.g.cs
+D:\Real_Final_Project\Real_Final_Project\obj\Debug\App.g.cs
+D:\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project_MarkupCompile.cache
+D:\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.g.resources
+D:\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.Properties.Resources.resources
+D:\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csproj.GenerateResource.Cache
+D:\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.exe
+D:\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.pdb
+D:\Real_Final_Project\Real_Final_Project\bin\Debug\GestureRecognizer.dll
+D:\Real_Final_Project\Real_Final_Project\bin\Debug\GestureRecognizer.pdb
+D:\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csproj.ResolveComReference.cache
+D:\Real_Final_Project\Real_Final_Project\obj\Debug\PresentationSelection.baml
+D:\Real_Final_Project\Real_Final_Project\obj\Debug\PresentationSelection.g.cs
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\bin\Debug\Real_Final_Project.exe.config
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csproj.ResolveComReference.cache
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.exe
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.pdb
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\bin\Debug\Real_Final_Project.exe
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\bin\Debug\Real_Final_Project.pdb
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\bin\Debug\GestureRecognizer.pdb
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csprojResolveAssemblyReference.cache
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\MainMenu.baml
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\MainWindow.baml
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\PresentationSelection.baml
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\MainMenu.g.cs
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\MainWindow.g.cs
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\PresentationSelection.g.cs
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\App.g.cs
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project_MarkupCompile.cache
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.g.resources
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.Properties.Resources.resources
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csproj.GenerateResource.Cache
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\MainPresentation.baml
+D:\Graduation Project\Documents\Real_Final_Project\Real_Final_Project\obj\Debug\MainPresentation.g.cs
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\bin\Debug\Real_Final_Project.exe.config
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csproj.ResolveComReference.cache
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.exe
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.pdb
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csprojResolveAssemblyReference.cache
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\MainMenu.baml
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\MainPresentation.baml
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\MainWindow.baml
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\PresentationSelection.baml
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\MainMenu.g.cs
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\MainPresentation.g.cs
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\MainWindow.g.cs
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\PresentationSelection.g.cs
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\App.g.cs
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project_MarkupCompile.cache
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.g.resources
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.Properties.Resources.resources
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csproj.GenerateResource.Cache
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\bin\Debug\Real_Final_Project.exe
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\bin\Debug\Real_Final_Project.pdb
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\bin\Debug\GestureRecognizer.dll
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\bin\Debug\Coding4Fun.Kinect.Wpf.pdb
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\bin\Debug\GestureRecognizer.pdb
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\ListPhotos.baml
+D:\Graduation Project\Real_Final_Project\Real_Final_Project\obj\Debug\ListPhotos.g.cs
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\bin\Debug\Real_Final_Project.exe.config
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csproj.ResolveComReference.cache
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.exe
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\ListPhotos.baml
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\MainMenu.baml
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\MainPresentation.baml
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\MainWindow.baml
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\PresentationSelection.baml
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\ListPhotos.g.cs
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\MainMenu.g.cs
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\MainPresentation.g.cs
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\MainWindow.g.cs
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\PresentationSelection.g.cs
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\App.g.cs
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project_MarkupCompile.cache
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.g.resources
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.Properties.Resources.resources
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csproj.GenerateResource.Cache
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\bin\Debug\Real_Final_Project.exe
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\bin\Debug\Real_Final_Project.pdb
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\bin\Debug\GestureRecognizer.dll
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\bin\Debug\Microsoft.Expression.Drawing.dll
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\bin\Debug\GestureRecognizer.pdb
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.pdb
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\bin\Debug\Microsoft.Expression.Drawing.xml
+D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csprojResolveAssemblyReference.cache
+F:\Real_after_Final_Project\Real_Final_Project\bin\Debug\Real_Final_Project.exe.config
+F:\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csproj.ResolveComReference.cache
+F:\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.exe
+F:\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.pdb

@@ -96,3 +96,7 @@ D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\bin\Debug\Gest
 D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.pdb
 D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\bin\Debug\Microsoft.Expression.Drawing.xml
 D:\Graduation Project\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csprojResolveAssemblyReference.cache
+C:\Users\ahmed_nasser\Desktop\GP\Real_after_Final_Project\Real_Final_Project\bin\Debug\Real_Final_Project.exe.config
+C:\Users\ahmed_nasser\Desktop\GP\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.csproj.ResolveComReference.cache
+C:\Users\ahmed_nasser\Desktop\GP\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.exe
+C:\Users\ahmed_nasser\Desktop\GP\Real_after_Final_Project\Real_Final_Project\obj\Debug\Real_Final_Project.pdb

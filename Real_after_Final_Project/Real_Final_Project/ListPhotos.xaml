@@ -8,7 +8,6 @@
 	Title="ListPhotos">
 
     <Grid >
-        <Label Content="yussef" HorizontalAlignment="Left" Margin="38,74,0,0" VerticalAlignment="Top" FontSize="40" Width="234" Height="59"/>
-
+      <!--  No thing here   -->
     </Grid>
 </Page>
